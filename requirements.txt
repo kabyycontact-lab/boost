@@ -9,3 +9,6 @@ datetime
 flask
 discord_webhook
 sellpass
+tls-client
+httpx
+discord.py
